@@ -1,3 +1,4 @@
+# Trigger callgraph generation
 # Simple Java+bazel example project
 This is a simple java example project that tries to follow [best practices](https://bazel.build/versions/master/docs/best-practices.html).
 
